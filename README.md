@@ -1,5 +1,8 @@
 # Aplikasi Manajemen Kesehatan
 
+# 2. Registrasi dan LogIn
 a.) tampilan registrasi
-![Tampilan pop up Registrasi](https://raw.githubusercontent.com/endiniii/LabMobile5_EndiniNurlaily_ShiftC/main/register_berhasil.png)
-# 2. Proses Login
+![Tampilan pop up Registrasi]!(https://raw.githubusercontent.com/endiniii/ResponsiPemmob_EndiniNurlaily_H1D022089/main/images/registrasi_sukses.png)
+b.) tampilan login
+![Tampilan pop up login]!(https://raw.githubusercontent.com/endiniii/ResponsiPemmob_EndiniNurlaily_H1D022089/main/images/login_sukses.png)
+
